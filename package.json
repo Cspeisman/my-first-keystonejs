@@ -1,0 +1,23 @@
+{
+  "name": "my-first-keystonejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {},
+  "devDependencies": {
+    "keystone": "^0.3.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cspeisman/my-first-keystonejs.git"
+  },
+  "author": "Corey Speisman <cspeisman@gmail.com> (http://github.com/cspeisman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cspeisman/my-first-keystonejs/issues"
+  },
+  "homepage": "https://github.com/Cspeisman/my-first-keystonejs#readme"
+}
